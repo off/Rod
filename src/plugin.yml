@@ -1,0 +1,10 @@
+name: Rod
+author: Glenjendary
+version: 0.1
+main: com.glenjendary.rod.Main
+description: Gives a player a rod when they use the command /rod
+commands:
+  rod:
+    usage: /rod
+    description: Gives you a rod
+    aliases: [givemeafuckingrod, rodmehard, rodmedaddy, roddymcrodderson]
